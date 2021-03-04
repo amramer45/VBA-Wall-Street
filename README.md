@@ -13,6 +13,8 @@ Use VBA to analyze and visualize real stock market data for three consecutive ye
 
   * The total stock volume of the stock.
 
+Run code to returning the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
+
 ## 2014 Stock Market Analysis:
 ![2014 Stock Market Data](Images/2014_change.png)
 
